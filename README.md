@@ -1,4 +1,7 @@
 # Mini-Challenge React para Sergie
+
+En el siguiente link va a acceder a la versión en web. [Mini-Challenge-Sergie](https://mini-challenge-sergie.web.app/)
+
 El challenge esta realizado por Augusto Rafael Blanco. 
 Con las tecnologías:
 - ReactJS
