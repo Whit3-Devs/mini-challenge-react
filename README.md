@@ -23,4 +23,11 @@ Instalamos las dependecias:
 Corremos el proyecto en local:
 ### `npm start`
 
+## Vistas previas
+
+### Vista Home
+  <img height="200" src="https://github.com/Whit3-Devs/mini-challenge-react/blob/master/assetsreadme/home.png?raw=true" />
+
+### Vista Crear Usuario
+  <img height="200" src="https://github.com/Whit3-Devs/mini-challenge-react/blob/master/assetsreadme/createuse.png?raw=true" />
 
